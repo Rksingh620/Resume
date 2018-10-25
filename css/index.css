@@ -1,0 +1,37 @@
+        .hei {
+            height: 100px;
+        }
+
+        .border-side {
+            border-left: 5px solid;
+            border-left-color: cadetblue;
+            margin-left: 1px;
+            margin-top: 20px;
+        }
+
+        .namehead {
+            margin-top: 10px;
+            margin-left: 220px;
+        }
+
+        .border-up {
+            border-top: 12px solid cadetblue;
+            margin-top: 10px;
+        }
+
+        .subhead {
+
+            margin: 12px;
+            margin-left: 15px;
+        }
+
+        .color {
+            color: cadetblue;
+        }
+
+        .imge {
+            max-height: 150px;
+            max-width: 150Px;
+            width: 100%;
+            height: 100%;
+        }
